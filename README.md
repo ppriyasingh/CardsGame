@@ -1,2 +1,3 @@
 # CardsGame
-Deck cards game for one or more players
+Deck cards game for two or more players!
+Code is in progress...
